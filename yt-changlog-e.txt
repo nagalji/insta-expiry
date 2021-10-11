@@ -1,0 +1,6 @@
+Version 2. Changelog:
+
+>Added Download Button
+>Added Header Download section
+>Base Update
+>Bugs Fixed
