@@ -1,4 +1,4 @@
-Version 5. Changelog:
+Version 6. Changelog:
 
 >Added Download Button
 >Added Header Download section
