@@ -1,5 +1,8 @@
 Версия 7. Изменения:
 
->Fixed Download Video
+>Added Short Video Comments Copy
+>Added Dislike Button
+>Added Download Settings
+>Added SponsorBlock Settings
 >Base Update 17.04.36
 >Bugs Fixed
