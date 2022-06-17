@@ -1,8 +1,8 @@
 { 
    "force_update":false,
-   "version":1.0,
+   "version":10.0,
    "changelog":"
-   \n[Base] 208.0.0.32.135!
-   \n[Added] Download Settings!
-   \n[Fixed] Many other fixes and improvements!"
+   \n[Base] 233.0.0.13.112!
+   \n[Added] Remove Black Borders in stories!
+   \n[Added] Disable stories autoskip!"
 }
