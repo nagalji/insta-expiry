@@ -1,7 +1,8 @@
 { 
    "force_update":false,
-   "version":15.0,
+   "version":16.0,
    "changelog":"
-   \n[Base] 300.0.0.29.110!
-   \n[Fixed] Many other fixes and improvements!"
+   \n[Base] 309.0.0.40.113!
+   \n[Added] Chat Lock
+   \n[Added] Hide Media From Gallery!"
 }
