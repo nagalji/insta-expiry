@@ -1,8 +1,8 @@
 {
-  "show_message": false,
+  "show_message": true,
   "title": "Follow SamMods Team",
-  "content_url": "https://www.snapchatpro.net/",
+  "content_url": "www.google.com/",
   "positive_btn": "OK",
-  "link": "https://www.whatsappmods.net/",
+  "link": "www.google.com",
   "cancelable": false
 }
