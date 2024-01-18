@@ -1,8 +1,8 @@
 {
-  "show_message": false,
-  "title": "Follow SamMods Team",
-  "content_url": "https://www.snapchatpro.net/",
+  "show_message": true,
+  "title": "Follow SamMods Telegram Channel",
+  "content_url": "https://t.me/SamMods",
   "positive_btn": "OK",
-  "link": "https://www.whatsappmods.net/",
-  "cancelable": false
+  "link": "https://t.me/SamMods",
+  "cancelable": true
 }
