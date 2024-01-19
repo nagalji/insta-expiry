@@ -1,8 +1,8 @@
 {
-  "show_message": true,
+  "show_message": false,
   "title": "Follow SamMods Telegram Channel",
   "content_url": "https://telegram.me/s/sammods",
   "positive_btn": "Follow",
   "link": "https://t.me/SamMods",
-  "cancelable": true
+  "cancelable": false
 }
