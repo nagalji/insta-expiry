@@ -1,5 +1,5 @@
 {
-  "show_message": true,
+  "show_message": false,
   "title": " GBWhatsApp Update",
   "content_url": "https://sammods.github.io/insta-expiry/gb-changelog.html",
   "positive_btn": "Download",
