@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Download Buttons in Table Rows</title>
+<style>
+  body {
+    background-color: #222; /* Dark background color for the page */
+    color: #fff; /* Text color */
+    font-family: Arial, sans-serif; /* Font family */
+  }
+
+  table {
+    border-collapse: collapse;
+    width: 50%; /* Adjust the width of the table as needed */
+    margin: 20px auto; /* Center the table horizontally */
+  }
+
+  th, td {
+    padding: 10px;
+    text-align: center;
+  }
+
+  th {
+    background-color: #444; /* Dark background color for table header */
+  }
+
+  tr:nth-child(even) {
+    background-color: #333; /* Dark background color for even rows */
+  }
+
+  tr:nth-child(odd) {
+    background-color: #444; /* Dark background color for odd rows */
+  }
+
+  .button {
+    background-color: #555; /* Button background color */
+    color: #fff; /* Button text color */
+    padding: 8px 16px; /* Padding for the button */
+    border: none; /* Remove button border */
+    border-radius: 4px; /* Add button border radius */
+    cursor: pointer; /* Change cursor to pointer on hover */
+    text-decoration: none; /* Remove underline from the button */
+    font-size: 14px; /* Button font size */
+    transition: background-color 0.3s; /* Smooth transition for button color change */
+  }
+
+  .button:hover {
+    background-color: #777; /* Darker background color on button hover */
+  }
+</style>
+</head>
+<body>
+<p><center> Download MicroG For YT Music Pro</center></p>
+<table border="1">
+  <tr>
+    <th>Default</th>
+    <th>Huawei, Xiaomi</th>
+  </tr>
+  <tr>
+    <td><a href="path_to_file_1" download class="button">
+        Download 1
+      </a></td>
+    <td>
+      <a href="path_to_file_1" download class="button">
+        Download 2
+      </a>
+    </td>
+  </tr>
+ 
+</table>
+
+</body>
+</html>
