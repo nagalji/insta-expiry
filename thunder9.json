@@ -1,8 +1,8 @@
 {
-  "show_message": false,
+  "show_message": true,
   "title": "Follow SamMods Team",
   "message": "\nFollow me on Instagram :)",
   "positive_btn": "Download",
   "link": "https://www.whatsappmods.net/",
-  "cancelable": false
+  "cancelable": true
 }
