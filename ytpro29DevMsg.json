@@ -1,8 +1,8 @@
 {
-  "show_message": true,
-  "title": "Follow SamMods Team",
-  "message": "\nFollow me on Instagram :)",
-  "positive_btn": "Download",
-  "link": "https://www.whatsappmods.net/",
-  "cancelable": false
+  "show_message": false,
+  "title": "Join Telegram Channel For More Updates",
+  "content_url": "https://t.me/s/SamMods",
+  "positive_btn": "Join Now",
+  "link": "https://t.me/SamMods",
+  "cancelable": true
 }
