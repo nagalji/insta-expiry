@@ -1,8 +1,8 @@
 {
-  "show_message": false,
-  "title": "Follow SamMods Telegram Channel",
+  "show_message": true,
+  "title": "UPDATE FOUND",
   "content_url": " ",
-  "positive_btn": "OK",
-  "link": "https://t.me/SamMods/",
+  "positive_btn": "LET'S Download",
+  "link": "https://www.apkchatpro.com",
   "cancelable": true
 }
